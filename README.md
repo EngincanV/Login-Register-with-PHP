@@ -10,3 +10,8 @@ This MD5 hash generator is useful for encoding passwords, credit cards numbers a
 MD5 hashes are also used to ensure the data integrity of files. Because the MD5 hash algorithm always produces the same output for the same given input, users can compare a hash of the source file with a newly created hash of the destination file to check that it is intact and unmodified.
 
 An MD5 hash is NOT encryption. It is simply a fingerprint of the given input. However, it is a one-way transaction and as such it is almost impossible to reverse engineer an MD5 hash to retrieve the original string.
+
+### Note : 
+
+Header("Location:whatever_you_want_to_go");
+This header() method provide us to return specific php page.
